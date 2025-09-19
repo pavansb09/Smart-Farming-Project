@@ -18,17 +18,17 @@ Smart-Farming-Project/
 │
 ├── data/
 │   └── Crop_recommendation.csv     # Dataset
-│
+
 ├── models/
 │   └── crop_recommender.pkl        # Saved ML model
-│
+
 ├── src/
 │   ├── app.py                      # Flask app
 │   └── train.py                    # Model training script
-│
+
 ├── templates/
 │   └── index.html                  # Frontend (UI)
-│
+
 ├── requirements.txt                # Dependencies
 └── README.md                       # Project documentation
 
