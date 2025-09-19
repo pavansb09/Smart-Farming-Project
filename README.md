@@ -16,7 +16,6 @@ The solution is built for farmers and agricultural planners to optimize decision
 
 ## 📂 Project Structure
 
-
 Smart-Farming-Project/
 │
 ├── data/
