@@ -36,6 +36,8 @@ Smart-Farming-Project/
 
 
 
+
+
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/pavansb09/Smart-Farming-Project.git
