@@ -13,7 +13,10 @@ The solution is built for farmers and agricultural planners to optimize decision
 ✅ Machine Learning model trained on agricultural dataset
 ✅ Easy to deploy and extend with new data
 
-🗂 Project Structure
+
+## 📂 Project Structure
+
+
 Smart-Farming-Project/
 │
 ├── data/
