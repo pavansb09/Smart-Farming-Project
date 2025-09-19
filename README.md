@@ -20,20 +20,22 @@ The solution is built for farmers and agricultural planners to optimize decision
 Smart-Farming-Project/
 │
 ├── data/
-│   └── Crop_recommendation.csv     # Dataset
-
+│ └── Crop_recommendation.csv # Dataset
+│
 ├── models/
-│   └── crop_recommender.pkl        # Saved ML model
-
+│ └── crop_recommender.pkl # Saved ML model
+│
 ├── src/
-│   ├── app.py                      # Flask app
-│   └── train.py                    # Model training script
-
+│ ├── app.py # Flask application (backend)
+│ └── train.py # Model training script
+│
 ├── templates/
-│   └── index.html                  # Frontend (UI)
+│ └── index.html # Frontend (UI)
+│
+├── requirements.txt # Project dependencies
+└── README.md # Project documentation
 
-├── requirements.txt                # Dependencies
-└── README.md                       # Project documentation
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
